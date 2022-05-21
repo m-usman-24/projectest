@@ -1,0 +1,88 @@
+body {
+  font-family: "google sans";
+  background-image: url(Track.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+div {
+  background-color: #f9f9f9;
+  opacity: 0.98;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+  max-width: 500px;
+  min-width: 385px;
+  border-radius: 10px;
+}
+h1 {
+  font-family: "samsung sharp sans", "sans serif";
+  font-size: 40pt;
+  text-align: center;
+  color: #665af9;
+  padding-top: 50px;
+}
+
+.established {
+  font-family: "lora";
+  font-weight: 550;
+  font-style: italic;
+  font-size: 18pt;
+  color: #606060;
+  margin: -50px 117px 0 0;
+  float: right;
+  display: inline-block;
+}
+
+hr {
+  height: 3px;
+  width: 80%;
+  border: none;
+  background-color: #b7b1ff;
+  margin-top: 60px;
+}
+
+h2 {
+  color: #665af9;
+  font-size: 22pt;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.item p {
+  display: inline-block;
+  color: #303030;
+  margin-left: 50px;
+  margin-top: -5px;
+  font-size: 16pt;
+}
+
+.nline {
+  float: right;
+  padding-right: 50px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 3px;
+}
+
+.port {
+  margin-top: -10px;
+}
+
+.footer {
+  margin-top: 10px;
+}
+
+p a {
+  color: #665af9;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+p a:hover {
+  color: #3c2aff;
+  font-weight: 450;
+}
